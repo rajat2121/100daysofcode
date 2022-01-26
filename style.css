@@ -1,0 +1,10 @@
+body {
+  background-color: azure;
+}
+h1 {
+  text-align: center;
+  color: aqua;
+  background-color: blueviolet;
+  border-style: double;
+  border-top-color: chartreuse;
+}
